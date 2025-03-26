@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Funnel+Display:wght@300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+  font-family: Bebas;
+  font-style: normal;
+  font-weight: 400;
+  
+  src: local('Bebas Neue Regular'), local('BebasNeue-Regular'), url(https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wdhzg.ttf) format('truetype');
+}
+
+@font-face{
+  
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    src: url('https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2') format('woff2');
+}
+
+#pageone{
+  position: relative;
+  perspective:300px ;
+}
+#sectiontwo{
+  position: relative;
+  perspective:3000px ;
+}
+
+#textMove{
+  width: fit-content;
+ 
+}
+.rotatetext{
+  transform-origin: 100% 70%;
+}
+
+@font-face {
+  font-family:anzo1;
+  src: url(../src/assets/file1.woff2);
+}
+
+@font-face {
+  font-family: anzo2;
+  src: url(../src/assets/file2.woff2);
+}
+@font-face {
+  font-family: anzo3;
+  src: url(../src/assets/file3.woff2);
+}
+
+.bgcolor{
+  background: rgb(119,119,121);
+background: -moz-radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,0.9990589985994398) 44%);
+background: -webkit-radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,0.9990589985994398) 44%);
+background: radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,0.9990589985994398) 44%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#777779",endColorstr="#101010",GradientType=1);
+}
+
+
+
