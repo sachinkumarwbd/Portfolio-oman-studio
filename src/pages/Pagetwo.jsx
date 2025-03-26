@@ -24,7 +24,7 @@ function Pagetwo() {
   });
   return (
     <>
-      <div id="sectiontwo" className="bg-white p-20  text-center text-black">
+      <div id="sectiontwo" className="bg-white py-20 w-screen  text-center text-black">
         <h3 className=" text-gray-500  text-2xl">
           © oman studio 2025 | developed and designed{" "}
         </h3>

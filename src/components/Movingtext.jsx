@@ -4,7 +4,7 @@ import React from 'react'
 function Movingtext(props) {
   return (
    <>
-     <div  id="pageone"  className="text-white px-18   py-44 ">
+     <div  id="pageone"  className="text-white px-20   py-44 ">
             <div id="textMove" ref={props.abc} className="">
               <h1 className="text-[5vw]">
                 

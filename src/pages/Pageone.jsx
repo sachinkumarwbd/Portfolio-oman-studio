@@ -48,7 +48,7 @@ function Pageone() {
           onMouseMove={(e) => {
             mouseMove(e);
           }}
-          className="w-full  relative shadow-gray-700 h-full bg-cover bg-[url(https://cdn.pixabay.com/photo/2017/08/02/09/48/people-2570488_1280.jpg)]  rounded-[50px] shadow-lg"
+          className="w-full   shadow-gray-700 h-full bg-cover bg-[url(https://cdn.pixabay.com/photo/2017/08/02/09/48/people-2570488_1280.jpg)]  rounded-[50px] shadow-lg"
         >
           <Movingtext abc={textRef} />
           <Bottomtext />
