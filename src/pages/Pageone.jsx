@@ -43,12 +43,12 @@ function Pageone() {
   return (
     <>
     
-      <div className="h-screen  relative bg-white px-3 py-2">
+      <div className="h-screen w-screen relative bg-white px-3 py-2">
         <div
           onMouseMove={(e) => {
             mouseMove(e);
           }}
-          className="w-full   shadow-gray-700 h-full bg-cover bg-[url(https://cdn.pixabay.com/photo/2017/08/02/09/48/people-2570488_1280.jpg)]  rounded-[50px] shadow-lg"
+          className="w-full h-full sm:w-full bg-black   shadow-gray-700 sm:h-full  sm:bg-[url(https://cdn.pixabay.com/photo/2017/08/02/09/48/people-2570488_1280.jpg)]  rounded-[50px] shadow-lg"
         >
           <Movingtext abc={textRef} />
           <Bottomtext />

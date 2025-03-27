@@ -47,14 +47,14 @@ function Pagetwelth() {
             <div className='  '> 
                 <h1 className="text-[12vw]  w-[40%] rotate uppercase font-[anzo3] leading-24 text-white ">polka dot</h1>
                 <p className="text-xl uppercase font-[anzo1] text-gray-500 ">Monochrome / Tattoo Studio | COMING SOON</p>
-                <div className='line w-full h-0.5 mt-3 bg-gray-300'></div>
+                <div className='line md:w-full h-0.5 mt-3 bg-gray-300'></div>
             </div>
         
           
             <div className='mt-24 '>
                 <h1 className="text-[12vw] rotate uppercase font-[anzo3] leading-24 text-white ">hodo-hodo</h1>
                 <p className="text-xl uppercase font-[anzo1] text-gray-500 ">Creative Portfolio / Colors</p>
-                <div className='line w-full h-0.5 mt-3 bg-gray-300'></div>
+                <div className='line md:w-full h-0.5 mt-3 bg-gray-300'></div>
             </div>
             <div className='mt-24  '>
                 <h1 className="text-[12vw] rotate uppercase font-[anzo3] leading-24 text-white ">fresh haystack</h1>

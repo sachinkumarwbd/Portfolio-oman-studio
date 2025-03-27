@@ -17,7 +17,7 @@ function Pagetwo() {
         trigger: ".rotatetext",
         // markers:true,
         start: "top 60%",
-        end: "top -500%",
+        end: "top -100%",
         scrub: 2,
       },
     });

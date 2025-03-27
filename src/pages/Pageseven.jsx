@@ -6,7 +6,7 @@ function Pageseven() {
     <div className="h-screen  relative  bg-white px-3 py-2">
       <div className="overflow-hidden  relative w-full h-full rounded-[50px]">
         <img
-          className="w-[54vw] ml-[25vw] absolute  bg-cover"
+          className="md:w-[54vw] md:ml-[25vw] absolute mt-36 md:mt-0 bg-cover"
           src={bg}
           alt=""
         />
@@ -14,8 +14,8 @@ function Pageseven() {
           
           className="bgcolor text-white flex  items-center space-x-40 px-14 overflow-hidden relative w-full h-full rounded-[50px]"
         >
-          <div className="w-[60%] justify-items-center">
-            <h1 className="text-[12vw]  font-[anzo3]">[ MODERN ]</h1>
+          <div className="md:w-[60%] w-full h-full text-center md:justify-items-center">
+            <h1 className="md:text-[12vw]  text-6xl font-[anzo3]">[ MODERN ]</h1>
             <h3 className="text-2xl">DESIGNED FOR NOW | BUILD FOR future</h3>
             <p className="text-lg mb-3 mt-3 w-[60%] text-gray-500">
               The digital world moves fast - your brand should move even faster.

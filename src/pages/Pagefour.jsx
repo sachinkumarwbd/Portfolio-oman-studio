@@ -8,7 +8,7 @@ function Pagefour() {
     
   return (
     <>
-    <div id="sectiontwo"  className='bg-white p-20  text-center text-black'>
+    <div id="sectiontwo"  className='bg-white p-16  text-center text-black'>
     <div className="rotatetext mt-20 ">
           <h1 className="text-[35vw] tracking-tighter text-black font-[Bebas] uppercase leading-[25vw]">
             HELPING
