@@ -17,7 +17,7 @@ import Page13 from "./pages/Page13";
 function App() {
   return (
     <>
-      <div>
+      <div className="scroll-smooth">
         <Header />
         <Pageone />
         <Pagetwo />
@@ -29,7 +29,10 @@ function App() {
         <Pageeight />
         <Pagenine />
         <Pagetenth />
+        
         <Pageeleven />
+       
+        
         <Pagetwelth />
         <Page13 />
       </div>

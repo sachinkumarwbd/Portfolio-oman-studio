@@ -10,10 +10,10 @@ function Bottomtext() {
         <h1 className='text-3xl sm:text-[2vw] font-sans'>BRAND DESIGN  |  WEBSITE DESIGN</h1>
         <h1 className='sm:text-[1vw] text-gray-400 font-extralight'>FREELANCE</h1>
       </div>
-      <div className='space-x-3'>
-        <a href="">< FaInstagram className='text-3xl'  /></a>
-        <a href=""><CiLinkedin className='text-3xl' /></a>
-        <a href=""><CgMail  className='text-3xl' />
+      <div className='space-x-3 '>
+        <a href="">< FaInstagram className='text-3xl hover:scale-150 duration-150'  /></a>
+        <a href=""><CiLinkedin className='text-3xl hover:scale-150 duration-150' /></a>
+        <a href=""><CgMail  className='text-3xl hover:scale-150 duration-150' />
         </a>
       </div>
       </div>

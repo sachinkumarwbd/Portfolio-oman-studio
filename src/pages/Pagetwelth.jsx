@@ -43,9 +43,9 @@ function Pagetwelth() {
   });
   return (
     <div className=" px-3  py-2 w-screen  bg-white">
-          <div className="   w-full px-24 py-48 shadow-lg bg-black  rounded-[50px]  ">
+          <div className="   md:w-full px-24 py-48 shadow-lg bg-black  rounded-[50px]  ">
             <div className='  '> 
-                <h1 className="text-[12vw]  w-[40%] rotate uppercase font-[anzo3] leading-24 text-white ">polka dot</h1>
+                <h1 className="text-[12vw]  md:w-[40%] rotate uppercase font-[anzo3] leading-24 text-white ">polka dot</h1>
                 <p className="text-xl uppercase font-[anzo1] text-gray-500 ">Monochrome / Tattoo Studio | COMING SOON</p>
                 <div className='line md:w-full h-0.5 mt-3 bg-gray-300'></div>
             </div>

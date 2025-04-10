@@ -58,6 +58,25 @@ background: -moz-radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,
 background: -webkit-radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,0.9990589985994398) 44%);
 background: radial-gradient(circle, rgba(119,119,121,0) 23%, rgba(16,16,16,0.9990589985994398) 44%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#777779",endColorstr="#101010",GradientType=1);
+  /* background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw; */
+  
+ 
+  
+}
+
+.moveman{
+   background-size: cover; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw; 
+  
 }
 
 

@@ -19,7 +19,7 @@ function Pagethree() {
               design is more than aesthetics; web design is a complete extension
               of your brand - a seamless blend of visual identity .
             </p>
-            <button className=" w-full  bg-black border-2 mt-8 px-16 py-1  rounded-full cursor-pointer text-white hover:bg-gray-500">
+            <button className=" w-full md:w-[50%]  bg-black border-2 mt-8 px-16 py-1  rounded-full cursor-pointer text-white hover:bg-gray-500">
               Explore
             </button>
           </div>
