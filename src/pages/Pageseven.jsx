@@ -7,22 +7,22 @@ import mobile from "../assets/MOBILE.avif";
 function Pageseven() {
   return (
     <div className="md:h-screen  md:relative w-screen bg-white px-3 py-2">
-      <div className="overflow-hidden  relative md:h-full rounded-[50px]">
+      <div className="overflow-hidden w-full h-full relative md:h-full rounded-[50px]">
         <img
-          className="md:w-[54vw] hidden md:block  md:h-full md:ml-[25vw] absolute mt-[80vh] md:mt-0 bg-cover"
+          className="md:w-[54vw] w-full    h-full md:ml-[25vw] absolute  md:mt-0 bg-cover"
           src={bg}
           alt=""
         />
         <div
           
-          className="bgcolor   text-white md:flex md:py-40   items-center space-x-40 px-6 overflow-hidden  relative w-full md:h-full rounded-[50px]"
+          className="bgcolor  text-white md:flex md:py-40   items-center space-x-40 px-6 overflow-hidden  relative w-full h-full rounded-[50px]"
         >
           <div className="md:w-[60%]  w-full md:h-full md:text-center md:justify-items-center">
             <h1 className="md:text-[12vw] mb-11 md:mb-0 hidden md:block text-7xl font-[anzo3]">[ MODERN ]</h1>
             <h1 className="  md:mb-0 md:hidden  mt-24 text-8xl font-[anzo3]">MODERN</h1>
             <h3 className="md:text-2xl  text-start md:text-center md:w-[60%]  w-full">DESIGNED FOR NOW | BUILD FOR future</h3>
-            <div className="md:hidden w-full h-0.5 bg-white"></div>
-            <img className="md:hidden mt-96" src={mobile} alt="" />
+            <div className="md:hidden mt-4 w-full h-0.5 bg-white"></div>
+            <img className="md:hidden mt-11 " src={mobile} alt="" />
             
             <img className="md:hidden mt-11" src={laptop} alt="" />
             <img className="md:hidden" src={logo} alt="" />

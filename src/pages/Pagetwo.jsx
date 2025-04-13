@@ -16,8 +16,8 @@ function Pagetwo() {
       scrollTrigger: {
         trigger: ".rotatetext",
         // markers:true,
-        start: "top 60%",
-        end: "top -100%",
+        start: "top 70%",
+        end: "top -300%",
         scrub: 2,
       },
     });

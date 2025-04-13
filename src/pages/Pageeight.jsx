@@ -57,13 +57,13 @@ function Pageeight() {
           <div className="md:hidden line2 w-[90%] h-0.5 mt-3 items-center ml-4 bg-white mb-90"></div>
           
 
-          <p className="text-gray-500   mt-8 hidden md:block  W-[50%] font-extrabold text-center mx-auto  ">
+          <p className="md:text-gray-500  text-white mt-48 font-extralight  W-[40%] font-extrabold text-center mx-auto  ">
             Minimalism isn’t emptiness - it’s precision. Every line, every
             space, every interaction is intentional. The brands that lead the
             world aren’t cluttered with excess - they radiate confidence through
             clarity.
           </p>
-          <button className=" mx-auto bg-black border-2 mt-80 md:mt-24 mb-4 w-[70%] md:w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
+          <button className=" mx-auto bg-black border-2 mt-7 md:mt-24 mb-4 w-[70%] md:w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
             BRAND BOOK
           </button>
         </div>
