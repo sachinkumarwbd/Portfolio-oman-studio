@@ -6,9 +6,9 @@ function Pagethree() {
   return (
     <div className=" h-screen w-screen bg-white  px-3 py-2 ">
       <div className=" relative w-full  shadow-gray-700 h-full flex   rounded-[50px] shadow-lg ">
-        <div className=" absolute   justify-between   z-20 text-white  p-24 font-serif  flex ">
+        <div className=" absolute   justify-between   z-20 text-white py-24 px-16  md:p-24 font-serif  flex ">
           <div className=" sm:w-[50%] w-full text-center items-center  flex flex-col">
-            <h1 className="sm:text-[13vw] text-[20vw] font-[anzo3]  ">ABOUT</h1>
+            <h1 className="md:text-[13vw] text-[20vw] font-[anzo3]  ">ABOUT</h1>
             <h4 className="text-1xl  ">
               INTUITIVE APPROACH | FUTURE-FOCUSED
             </h4>

@@ -51,19 +51,19 @@ function Pageeight() {
             MINIMAL
           </h1>
 
-          <h3 className="text-2xl mx-auto pr-16 md:pr-0  md:mt-8 md:mb-0 text-white">
+          <h3 className="text-2xl mx-auto  ml-4  md:mt-8 md:mb-0 text-white">
             EFFORTLESS | BOLD | ICONIC
           </h3>
           <div className="md:hidden line2 w-[90%] h-0.5 mt-3 items-center ml-4 bg-white mb-90"></div>
           
 
-          <p className="md:text-gray-500  text-white mt-48 font-extralight  W-[40%] font-extrabold text-center mx-auto  ">
+          <p className="md:text-gray-500  text-white mt-48 font-extralight  W-[40%]  text-center mx-auto  ">
             Minimalism isn’t emptiness - it’s precision. Every line, every
             space, every interaction is intentional. The brands that lead the
             world aren’t cluttered with excess - they radiate confidence through
             clarity.
           </p>
-          <button className=" mx-auto bg-black border-2 mt-7 md:mt-24 mb-4 w-[70%] md:w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
+          <button className=" mx-auto bg-black border-2 mt-7 md:mt-24 mb-4 w-[80%] md:w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
             BRAND BOOK
           </button>
         </div>

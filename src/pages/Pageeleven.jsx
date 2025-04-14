@@ -27,7 +27,7 @@ function Pageeleven() {
               ></video>
               <h1 className="text-white  uppercase text-9xl md:text-[10vw] font-[anzo3]">shop</h1>
               <p className="text-white px-11 text-center text-xl">TEMPLATES ANIMATED ELEMENTS CUSTOM EFFECT CODES</p>
-              <button className="   bg-black border-4 mt-11 mx-auto hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
+              <button className="  bg-black border-4 mt-11 mx-auto hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
               CHECK LATEST TEMPLATE
             </button>
             </div>

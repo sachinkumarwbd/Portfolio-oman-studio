@@ -34,7 +34,7 @@ function Pagetenth() {
   
   return (
     <>
-      <div className="h-screen z-40 px-3 py-4 w-screen bg-white">
+      <div className="md:h-screen z-40 px-3 py-4 w-screen bg-white">
         <div className=" h-full w-full bg-black relative  text-center items-center  rounded-[50px]">
           <video
             loop
@@ -52,18 +52,18 @@ function Pagetenth() {
           ></video>
 
           <div className="relative md:py-28 py-11 px-7 w-full flex flex-col items-start md:block   md:w-[50%]  mr-28 ">
-            <h1 className="md:text-[13vw] text-8xl    text-white font-[anzo3] text-center ">
+            <h1 className="md:text-[13vw] text-6xl    text-white font-[anzo3] text-center ">
               ELITE
             </h1>
-            <h1 className="md:text-[13vw] text-8xl  text-white font-[anzo3] text-center ">
+            <h1 className="md:text-[13vw] text-6xl  text-white font-[anzo3] text-center ">
               LEGACY
             </h1>
             
-            <p className="text-white w-full text-start md:mb-0 md:text-center mt-4 mx-auto md:w-[40%] uppercase">
+            <p className="text-white  w-full text-start md:mb-0 md:text-center  mx-auto md:w-[40%] uppercase">
               Art Direction High-End Web Presence CONTINUES Brand Evolution
             </p>
-            <div className="md:hidden w-[90%] h-0.5 mt-3 bg-white"></div>
-            <button className="w-full  flex justify-center items-center  md:w-[40%] bg-black border-2 md:mt-11 mt-90 mx-auto hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
+            <div className="md:hidden w-full h-0.5 mt-3 bg-white"></div>
+            <button className="w-full  flex justify-center items-center   md:w-[40%] bg-black border-2 md:mt-11 sm:mt-80 mt-[60vh]  mx-auto hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
               SHAPE THE FUTURE
             </button>
           </div>

@@ -17,10 +17,10 @@ function Pagefive() {
         <div className='w-full md:w-[50%]  text-center z-2 md:p-24 font-sans justify-center flex flex-col'>
           <h1 className='hidden md:block text-8xl md:text-9xl py-12  md:text-center mx-auto md:mb-20 font-[anzo3] text-white'>
           [ ELEGANT ]</h1>
-          <h1 className='md:hidden text-8xl -mb-10 py-12 mr-52 md:text-center  font-[anzo3] text-white'>
+          <h1 className='md:hidden text-8xl -mb-10 py-12 mr-40 md:text-center  font-[anzo3] text-white'>
           ELEGANT</h1>
 
-          <h3 className='md:text-2xl  text-start text-xl mx-auto  md:mt-8 text-white'>REFINED | SOPHISTICATED | IMPACTFUL</h3>
+          <h3 className='md:text-2xl ml-5 text-start text-xl mx-auto  md:mt-8 text-white'>REFINED | SOPHISTICATED | IMPACTFUL</h3>
           <div className='md:hidden w-[90%] h-0.5 bg-gray-200 mx-auto mt-3.5'></div>
 
           <img className='md:absolute w-[3-vw] mt-11 rounded-full border-zinc-700  md:hidden ' src={black} alt="" />
@@ -28,7 +28,7 @@ function Pagefive() {
       <img className=' md:hidden md:relative w-full  sm:w-[27vw] ' src={v} alt="" />
 
           <p className='text-gray-500 mt-8 w-60 font-extrabold text-center mx-auto  '>Elegance isn’t just style - it’s substance, the perfect balance of form and function. The most influential brands don’t follow trends - they define them through presence that feels both effortless and commanding.</p>
-          <button className=" w-[50%] mx-auto bg-black border-2 mt-4 sm:w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
+          <button className=" w-[80%] mx-auto bg-black border-2 mt-4 md::w-[50%] hover:bg-gray-500   px-6 py-2  rounded-full cursor-pointer text-white">
 Case Study      </button>
 
         </div>
