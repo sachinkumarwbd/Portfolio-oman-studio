@@ -35,7 +35,7 @@ function Pagetenth() {
   return (
     <>
       <div className="md:h-screen z-40 px-3 py-4 w-screen bg-white">
-        <div className=" h-full w-full bg-black relative  text-center items-center  rounded-[50px]">
+        <div className=" h-full w-full bg-black relative shadow-gray-700 shadow-lg text-center items-center  rounded-[50px]">
           <video
             loop
             muted

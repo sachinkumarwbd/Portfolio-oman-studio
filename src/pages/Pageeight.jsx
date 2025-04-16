@@ -36,7 +36,7 @@ function Pageeight() {
   });
   return (
     <div className="md:h-screen px-3  py-2 w-screen  bg-white">
-      <div className="relative bg-black  overflow-hidden w-full h-full  items-center  rounded-[50px] flex justify-between ">
+      <div className="relative bg-black shadow-gray-700 shadow-lg  overflow-hidden w-full h-full  items-center  rounded-[50px] flex justify-between ">
         <img className="absolute hidden md:block w-full mb-56  " src={mannack} alt="" />
         <img className="absolute w-[3-vw] mt-60 rounded-full  md:hidden " src={lady} alt="" />
         

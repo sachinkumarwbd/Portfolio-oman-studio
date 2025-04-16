@@ -25,7 +25,12 @@ function Pagefour() {
          </div>
         <div className="rotatetext mt-30  ">
           <h1 className="text-[35vw] tracking-tighter text-black font-[Bebas] uppercase leading-[25vw]">
-            TO ACHIEVE
+            TO
+          </h1>
+        </div>
+        <div className="rotatetext mt-30  ">
+          <h1 className="text-[35vw] tracking-tighter text-black font-[Bebas] uppercase leading-[25vw]">
+            ACHIEVE
           </h1>
         </div>
         <div className="rotatetext mt-20 ">
