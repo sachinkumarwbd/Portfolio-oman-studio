@@ -11,9 +11,9 @@ function Bottomtext() {
         <h1 className='sm:text-[1vw] mt-3 text-gray-400 font-extralight'>FREELANCE</h1>
       </div>
       <div className='space-x-3 '>
-        <a href="">< FaInstagram className='text-2xl hover:scale-150 duration-150'  /></a>
-        <a href=""><CiLinkedin className='text-2xl hover:scale-150 duration-150' /></a>
-        <a href=""><CgMail  className='text-2xl hover:scale-150 duration-150' />
+        <a href="">< FaInstagram className='text-2xl lg:text-4xl hover:scale-150 duration-150'  /></a>
+        <a href=""><CiLinkedin className='text-2xl lg:text-4xl hover:scale-150 duration-150' /></a>
+        <a href=""><CgMail  className='text-2xl lg:text-4xl hover:scale-150 duration-150' />
         </a>
       </div>
       </div>
